@@ -1,0 +1,11 @@
+#login  { 
+  background-image: url('https://cdn.discordapp.com/attachments/863195570779586562/992493004461977650/1.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+} 
+
+
+body {
+    background: url("https://cdn.discordapp.com/attachments/863195570779586562/992493004461977650/1.gif") center fixed !important;  
+} 
